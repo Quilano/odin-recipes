@@ -1,0 +1,2 @@
+# odin-recipes
+In my first project i will build a basic recipe website. The website will consist of a main index page which will have links to a few recipes. The website itself will be looking kinda bad at first but i will be working on it and make it look nice with CSS later on.
